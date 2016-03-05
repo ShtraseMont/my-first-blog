@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'es-ec'
 
-TIME_ZONE = 'America\Guayaquil'
+TIME_ZONE = 'America/Guayaquil'
 
 USE_I18N = True
 
